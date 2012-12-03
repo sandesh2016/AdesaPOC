@@ -7,8 +7,11 @@
 //
 
 #import "ADiPadViewController.h"
+#import "ADiPadSummaryViewController.h"
 
 @interface ADiPadViewController ()
+
+-(IBAction)showSummaryView:(id)sender;
 
 @end
 
@@ -23,10 +26,26 @@
     return self;
 }
 
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
+}
+
+
+-(IBAction)showSummaryView:(id)sender
+{
+    ADiPadSummaryViewController *summaryViewController = [[ADiPadSummaryViewController alloc] initWithNibName:@"ADiPadSummaryViewController" bundle:nil];
+    [self.navigationController pushViewController:summaryViewController animated:YES];
+    
+}
+
+- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
+    return (
+            interfaceOrientation == UIInterfaceOrientationLandscapeLeft ||
+            interfaceOrientation == UIInterfaceOrientationLandscapeRight
+            );
 }
 
 - (void)didReceiveMemoryWarning

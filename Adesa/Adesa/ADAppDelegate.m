@@ -12,19 +12,23 @@
 #import "ADiPadViewController.h"
 
 @implementation ADAppDelegate
+@synthesize navigationController;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    
     // Override point for customization after application launch.
     if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone) {
         self.viewController = [[ADViewController alloc] initWithNibName:@"ADViewController_iPhone" bundle:nil];
-        self.window.rootViewController = self.viewController;
+        self.navigationController = [[UINavigationController alloc] initWithRootViewController:self.viewController];
+        
     } else {
         self.iPadViewController = [[ADiPadViewController alloc] initWithNibName:@"ADiPadViewController" bundle:nil];
-        self.window.rootViewController = self.iPadViewController;
+        self.navigationController = [[UINavigationController alloc] initWithRootViewController:self.iPadViewController];
+       
     }
-    
+     self.window.rootViewController = self.navigationController;
     [self.window makeKeyAndVisible];
     return YES;
 }
@@ -50,6 +54,7 @@
 {
     // Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the user interface.
 }
+
 
 - (void)applicationWillTerminate:(UIApplication *)application
 {

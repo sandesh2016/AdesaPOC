@@ -19,4 +19,6 @@
 
 @property (strong, nonatomic) ADiPadViewController *iPadViewController;
 
+@property (strong, nonatomic) UINavigationController *navigationController;
+
 @end

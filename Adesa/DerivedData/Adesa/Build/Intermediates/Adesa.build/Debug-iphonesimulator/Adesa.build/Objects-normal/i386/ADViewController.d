@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Administrator/Projects/Adesa/Adesa/ADViewController.m \
-  /Users/Administrator/Projects/Adesa/Adesa/ADViewController.h
+  /Users/Administrator/AdesaPOC/Adesa/Adesa/ADViewController.m \
+  /Users/Administrator/AdesaPOC/Adesa/Adesa/ADViewController.h

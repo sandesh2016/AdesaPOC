@@ -20,6 +20,10 @@
 		C38A65B7166CCFAA00329C79 /* ADViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = C38A65B5166CCFAA00329C79 /* ADViewController_iPhone.xib */; };
 		C38A65C3166CD0D800329C79 /* ADiPadViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C38A65C1166CD0D800329C79 /* ADiPadViewController.m */; };
 		C38A65C4166CD0D800329C79 /* ADiPadViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C38A65C2166CD0D800329C79 /* ADiPadViewController.xib */; };
+		C38A65D0166CD4B200329C79 /* ADiPadSummaryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C38A65CE166CD4B200329C79 /* ADiPadSummaryViewController.m */; };
+		C38A65D1166CD4B200329C79 /* ADiPadSummaryViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C38A65CF166CD4B200329C79 /* ADiPadSummaryViewController.xib */; };
+		C38A65D5166CD4D100329C79 /* ADiPhoneSummaryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C38A65D3166CD4D100329C79 /* ADiPhoneSummaryViewController.m */; };
+		C38A65D6166CD4D100329C79 /* ADiPhoneSummaryViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C38A65D4166CD4D100329C79 /* ADiPhoneSummaryViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +46,12 @@
 		C38A65C0166CD0D800329C79 /* ADiPadViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADiPadViewController.h; sourceTree = "<group>"; };
 		C38A65C1166CD0D800329C79 /* ADiPadViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADiPadViewController.m; sourceTree = "<group>"; };
 		C38A65C2166CD0D800329C79 /* ADiPadViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ADiPadViewController.xib; sourceTree = "<group>"; };
+		C38A65CD166CD4B200329C79 /* ADiPadSummaryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADiPadSummaryViewController.h; sourceTree = "<group>"; };
+		C38A65CE166CD4B200329C79 /* ADiPadSummaryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADiPadSummaryViewController.m; sourceTree = "<group>"; };
+		C38A65CF166CD4B200329C79 /* ADiPadSummaryViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ADiPadSummaryViewController.xib; sourceTree = "<group>"; };
+		C38A65D2166CD4D100329C79 /* ADiPhoneSummaryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADiPhoneSummaryViewController.h; sourceTree = "<group>"; };
+		C38A65D3166CD4D100329C79 /* ADiPhoneSummaryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADiPhoneSummaryViewController.m; sourceTree = "<group>"; };
+		C38A65D4166CD4D100329C79 /* ADiPhoneSummaryViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ADiPhoneSummaryViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,14 +98,10 @@
 		C38A65A0166CCFAA00329C79 /* Adesa */ = {
 			isa = PBXGroup;
 			children = (
+				C38A65CC166CD42700329C79 /* iPad */,
+				C38A65CB166CD41800329C79 /* iPhone */,
 				C38A65A9166CCFAA00329C79 /* ADAppDelegate.h */,
 				C38A65AA166CCFAA00329C79 /* ADAppDelegate.m */,
-				C38A65B2166CCFAA00329C79 /* ADViewController.h */,
-				C38A65B3166CCFAA00329C79 /* ADViewController.m */,
-				C38A65C0166CD0D800329C79 /* ADiPadViewController.h */,
-				C38A65C1166CD0D800329C79 /* ADiPadViewController.m */,
-				C38A65C2166CD0D800329C79 /* ADiPadViewController.xib */,
-				C38A65B5166CCFAA00329C79 /* ADViewController_iPhone.xib */,
 				C38A65A1166CCFAA00329C79 /* Supporting Files */,
 			);
 			path = Adesa;
@@ -113,6 +119,32 @@
 				C38A65B0166CCFAA00329C79 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C38A65CB166CD41800329C79 /* iPhone */ = {
+			isa = PBXGroup;
+			children = (
+				C38A65B2166CCFAA00329C79 /* ADViewController.h */,
+				C38A65B3166CCFAA00329C79 /* ADViewController.m */,
+				C38A65B5166CCFAA00329C79 /* ADViewController_iPhone.xib */,
+				C38A65D2166CD4D100329C79 /* ADiPhoneSummaryViewController.h */,
+				C38A65D3166CD4D100329C79 /* ADiPhoneSummaryViewController.m */,
+				C38A65D4166CD4D100329C79 /* ADiPhoneSummaryViewController.xib */,
+			);
+			name = iPhone;
+			sourceTree = "<group>";
+		};
+		C38A65CC166CD42700329C79 /* iPad */ = {
+			isa = PBXGroup;
+			children = (
+				C38A65C0166CD0D800329C79 /* ADiPadViewController.h */,
+				C38A65C1166CD0D800329C79 /* ADiPadViewController.m */,
+				C38A65C2166CD0D800329C79 /* ADiPadViewController.xib */,
+				C38A65CD166CD4B200329C79 /* ADiPadSummaryViewController.h */,
+				C38A65CE166CD4B200329C79 /* ADiPadSummaryViewController.m */,
+				C38A65CF166CD4B200329C79 /* ADiPadSummaryViewController.xib */,
+			);
+			name = iPad;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -173,6 +205,8 @@
 				C38A65B1166CCFAA00329C79 /* Default-568h@2x.png in Resources */,
 				C38A65B7166CCFAA00329C79 /* ADViewController_iPhone.xib in Resources */,
 				C38A65C4166CD0D800329C79 /* ADiPadViewController.xib in Resources */,
+				C38A65D1166CD4B200329C79 /* ADiPadSummaryViewController.xib in Resources */,
+				C38A65D6166CD4D100329C79 /* ADiPhoneSummaryViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -187,6 +221,8 @@
 				C38A65AB166CCFAA00329C79 /* ADAppDelegate.m in Sources */,
 				C38A65B4166CCFAA00329C79 /* ADViewController.m in Sources */,
 				C38A65C3166CD0D800329C79 /* ADiPadViewController.m in Sources */,
+				C38A65D0166CD4B200329C79 /* ADiPadSummaryViewController.m in Sources */,
+				C38A65D5166CD4D100329C79 /* ADiPhoneSummaryViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,6 +343,7 @@
 				C38A65BF166CCFAA00329C79 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

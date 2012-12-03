@@ -10,6 +10,8 @@
 
 @interface ADViewController ()
 
+-(IBAction)showSummaryView:(id)sender;
+
 @end
 
 @implementation ADViewController
@@ -18,6 +20,11 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+}
+
+-(IBAction)showSummaryView:(id)sender
+{
+    
 }
 
 - (void)didReceiveMemoryWarning

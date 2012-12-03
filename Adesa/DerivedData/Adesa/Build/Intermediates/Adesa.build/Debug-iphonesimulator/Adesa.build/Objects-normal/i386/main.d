@@ -1,2 +1,2 @@
-dependencies: /Users/Administrator/Projects/Adesa/Adesa/main.m \
-  /Users/Administrator/Projects/Adesa/Adesa/ADAppDelegate.h
+dependencies: /Users/Administrator/AdesaPOC/Adesa/Adesa/main.m \
+  /Users/Administrator/AdesaPOC/Adesa/Adesa/ADAppDelegate.h

@@ -1,4 +1,4 @@
-dependencies: /Users/Administrator/Projects/Adesa/Adesa/ADAppDelegate.m \
-  /Users/Administrator/Projects/Adesa/Adesa/ADAppDelegate.h \
-  /Users/Administrator/Projects/Adesa/Adesa/ADViewController.h \
-  /Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.h
+dependencies: /Users/Administrator/AdesaPOC/Adesa/Adesa/ADAppDelegate.m \
+  /Users/Administrator/AdesaPOC/Adesa/Adesa/ADAppDelegate.h \
+  /Users/Administrator/AdesaPOC/Adesa/Adesa/ADViewController.h \
+  /Users/Administrator/AdesaPOC/Adesa/Adesa/ADiPadViewController.h
