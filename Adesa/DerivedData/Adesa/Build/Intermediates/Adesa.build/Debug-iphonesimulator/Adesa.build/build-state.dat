@@ -1,0 +1,396 @@
+TAdesa
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Info.plist Adesa/Adesa-Info.plist
+cProcessPCH /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/PrecompiledHeaders/Adesa-Prefix-gwfrweipdysvskhaxmcweapgvzlo/Adesa-Prefix.pch.pth Adesa/Adesa-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADAppDelegate.o /Users/Administrator/Projects/Adesa/Adesa/ADAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/main.o /Users/Administrator/Projects/Adesa/Adesa/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADViewController.o /Users/Administrator/Projects/Adesa/Adesa/ADViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADiPadViewController.o /Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Adesa normal i386
+cGenerateDSYMFile /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app.dSYM /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Adesa
+cCopyStringsFile /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/en.lproj/InfoPlist.strings Adesa/en.lproj/InfoPlist.strings
+cCpResource Adesa/Default.png DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default.png
+cCpResource Adesa/Default@2x.png DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default@2x.png
+cCpResource Adesa/Default-568h@2x.png DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default-568h@2x.png
+cCompileXIB /Users/Administrator/Projects/Adesa/Adesa/en.lproj/ADViewController_iPhone.xib
+cCompileXIB /Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.xib
+cTouch /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000506618310000000000228FD0
+t1348868145
+s2265040
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005066183D00000000003DCEF0
+t1348868157
+s4050672
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005066183E00000000000015F7
+t1348868158
+s5623
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000506618750000000000000E8D
+t1348868213
+s3725
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000506618790000000000AB3D60
+t1348868217
+s11222368
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000506619100000000000001B54
+t1348868368
+s6996
+
+N/Users/Administrator/Projects/Adesa/Adesa/ADAppDelegate.h
+c0000000050BC998500000000000001E2
+t1354537349
+s482
+
+N/Users/Administrator/Projects/Adesa/Adesa/ADAppDelegate.m
+c0000000050BC9A120000000000000A68
+t1354537490
+s2664
+
+N/Users/Administrator/Projects/Adesa/Adesa/ADViewController.h
+c0000000050BC982A00000000000000E3
+t1354537002
+s227
+
+N/Users/Administrator/Projects/Adesa/Adesa/ADViewController.m
+c0000000050BC982A00000000000001FD
+t1354537002
+s509
+
+N/Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.h
+c0000000050BC995800000000000000EB
+t1354537304
+s235
+
+N/Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.m
+c0000000050BC995800000000000002EC
+t1354537304
+s748
+
+N/Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.xib
+c0000000050BC99CD0000000000001605
+t1354537421
+s5637
+
+N/Users/Administrator/Projects/Adesa/Adesa/Adesa-Prefix.pch
+c0000000050BC982A0000000000000139
+t1354537002
+s313
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Administrator/Projects/Adesa/Adesa/Default-568h@2x.png
+c000000005062328600000000000048A2
+t1348612742
+s18594
+
+N/Users/Administrator/Projects/Adesa/Adesa/Default.png
+c0000000050623286000000000000198C
+t1348612742
+s6540
+
+N/Users/Administrator/Projects/Adesa/Adesa/Default@2x.png
+c00000000506232860000000000003EEB
+t1348612742
+s16107
+
+N/Users/Administrator/Projects/Adesa/Adesa/en.lproj/ADViewController_iPad.xib
+c0000000050BC98B700000000000015AE
+t1354537143
+s5550
+
+N/Users/Administrator/Projects/Adesa/Adesa/en.lproj/ADViewController_iPhone.xib
+c0000000050BC98AF0000000000001881
+t1354537135
+s6273
+
+N/Users/Administrator/Projects/Adesa/Adesa/en.lproj/InfoPlist.strings
+c0000000050BC982A000000000000002D
+t1354537002
+s45
+
+N/Users/Administrator/Projects/Adesa/Adesa/main.m
+c0000000050BC982A000000000000015C
+t1354537002
+s348
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADAppDelegate.o
+t1354537424
+s92212
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADViewController.o
+t1354537424
+s67556
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADiPadViewController.o
+t1354537424
+s68660
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/Adesa.LinkFileList
+c0000000050BC99CF0000000000000271
+t1354537423
+s625
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/main.o
+t1354537424
+s3284
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/PrecompiledHeaders/Adesa-Prefix-cdrbnjvgotcrpncrklvfgdfrvanh/Adesa-Prefix.pch.pth
+t2
+s0
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/PrecompiledHeaders/Adesa-Prefix-gwfrweipdysvskhaxmcweapgvzlo/Adesa-Prefix.pch.pth
+t1354537424
+s4839796
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app
+t1354537427
+s340
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app.dSYM
+t1354537425
+s102
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/ADiPadViewController.nib
+t1354537427
+s860
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Adesa
+t1354537425
+s33940
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default-568h@2x.png
+t1354537425
+s18594
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default.png
+t1354537425
+s6540
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default@2x.png
+t1354537425
+s16107
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Info.plist
+t1354537423
+s892
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/PkgInfo
+t1354537423
+s8
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/en.lproj/ADViewController_iPad.nib
+t2
+s0
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/en.lproj/ADViewController_iPhone.nib
+t1354537425
+s865
+
+N/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/en.lproj/InfoPlist.strings
+t1354537425
+s42
+
+NAdesa/Adesa-Info.plist
+c0000000050BC982A00000000000005B9
+t1354537002
+s1465
+
+CBuild AST from /Users/Administrator/Projects/Adesa/Adesa/ADAppDelegate.m
+r0
+
+CBuild AST from /Users/Administrator/Projects/Adesa/Adesa/ADViewController.m
+r0
+
+CBuild AST from /Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.m
+r0
+
+CBuild AST from /Users/Administrator/Projects/Adesa/Adesa/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies36924093d16cb641^32c94093d16cb641^---0#1#0#--18"Check dependencies36"0FACFF36-EB81-4651-A307-147C86EEA120-
+
+CCompileC DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADAppDelegate.o /Users/Administrator/Projects/Adesa/Adesa/ADAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376230291.271795
+e376230291.475427
+r1
+xCompileC
+xDerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADAppDelegate.o
+x/Users/Administrator/Projects/Adesa/Adesa/ADAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/Administrator/Projects/Adesa/Adesa/ADAppDelegate.mcdb04593d16cb641^35b87993d16cb641^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/Administrator/Projects/Adesa/Adesa/ADAppDelegate.m0000000000000000^3835"CompileC DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADAppDelegate.o Adesa/ADAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Administrator/Projects/Adesa    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk" -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-generated-files.hmap -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-own-target-headers.hmap -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-all-target-headers.hmap -iquote /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-project-headers.hmap -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/include "-I/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/DerivedSources/i386 -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/DerivedSources -F/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator -include /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/PrecompiledHeaders/Adesa-Prefix-gwfrweipdysvskhaxmcweapgvzlo/Adesa-Prefix.pch -MMD -MT dependencies -MF /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADAppDelegate.d --serialize-diagnostics /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADAppDelegate.dia -c /Users/Administrator/Projects/Adesa/Adesa/ADAppDelegate.m -o /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADAppDelegate.o36"6AD02D00-C995-47FE-BAAE-70FDB2628B01-
+
+CCompileC DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADViewController.o /Users/Administrator/Projects/Adesa/Adesa/ADViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376230224.326760
+e376230224.499660
+r1
+xCompileC
+xDerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADViewController.o
+x/Users/Administrator/Projects/Adesa/Adesa/ADViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/Administrator/Projects/Adesa/Adesa/ADViewController.mddcd5350d16cb641^6ceb7f50d16cb641^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/Administrator/Projects/Adesa/Adesa/ADViewController.m0000000000000000^3853"CompileC DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADViewController.o Adesa/ADViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Administrator/Projects/Adesa    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk" -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-generated-files.hmap -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-own-target-headers.hmap -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-all-target-headers.hmap -iquote /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-project-headers.hmap -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/include "-I/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/DerivedSources/i386 -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/DerivedSources -F/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator -include /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/PrecompiledHeaders/Adesa-Prefix-gwfrweipdysvskhaxmcweapgvzlo/Adesa-Prefix.pch -MMD -MT dependencies -MF /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADViewController.d --serialize-diagnostics /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADViewController.dia -c /Users/Administrator/Projects/Adesa/Adesa/ADViewController.m -o /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADViewController.o36"633BB21B-0774-438D-9EAA-D231A6CC6260-
+
+CCompileC DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADiPadViewController.o /Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376230224.326754
+e376230224.499861
+r1
+xCompileC
+xDerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADiPadViewController.o
+x/Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.mb3cf5350d16cb641^09fa7f50d16cb641^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.m0000000000000000^3877"CompileC DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADiPadViewController.o Adesa/ADiPadViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Administrator/Projects/Adesa    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk" -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-generated-files.hmap -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-own-target-headers.hmap -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-all-target-headers.hmap -iquote /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-project-headers.hmap -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/include "-I/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/DerivedSources/i386 -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/DerivedSources -F/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator -include /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/PrecompiledHeaders/Adesa-Prefix-gwfrweipdysvskhaxmcweapgvzlo/Adesa-Prefix.pch -MMD -MT dependencies -MF /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADiPadViewController.d --serialize-diagnostics /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADiPadViewController.dia -c /Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.m -o /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/ADiPadViewController.o36"85B6477C-2E12-4BC0-B7C9-5A5E4835ED5E-
+
+CCompileC DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/main.o /Users/Administrator/Projects/Adesa/Adesa/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376230224.326452
+e376230224.487617
+r1
+xCompileC
+xDerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/main.o
+x/Users/Administrator/Projects/Adesa/Adesa/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/Administrator/Projects/Adesa/Adesa/main.mc3b85350d16cb641^20d57c50d16cb641^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Users/Administrator/Projects/Adesa/Adesa/main.m0000000000000000^3781"CompileC DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/main.o Adesa/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Administrator/Projects/Adesa    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk" -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-generated-files.hmap -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-own-target-headers.hmap -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-all-target-headers.hmap -iquote /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-project-headers.hmap -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/include "-I/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/DerivedSources/i386 -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/DerivedSources -F/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator -include /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/PrecompiledHeaders/Adesa-Prefix-gwfrweipdysvskhaxmcweapgvzlo/Adesa-Prefix.pch -MMD -MT dependencies -MF /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/main.dia -c /Users/Administrator/Projects/Adesa/Adesa/main.m -o /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/main.o36"6F5B39D4-DAB5-41DD-B401-53AC6629B9E6-
+
+CCompileXIB /Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.xib
+s376230225.170222
+e376230227.432884
+r1
+xCompileXIB
+x/Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compiling /Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.xibcaa72b51d16cb641^aad26e53d16cb641^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.xib0000000000000000^933"CompileXIB Adesa/ADiPadViewController.xib    cd /Users/Administrator/Projects/Adesa    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH "/Applications/Xcode 2.app/Contents/Developer/usr/bin/.."    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/ADiPadViewController.nib /Users/Administrator/Projects/Adesa/Adesa/ADiPadViewController.xib --sdk "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk"36"255C4A62-8199-4339-966D-1E22A5E8A451-
+
+CCompileXIB /Users/Administrator/Projects/Adesa/Adesa/en.lproj/ADViewController_iPad.xib
+r0
+
+CCompileXIB /Users/Administrator/Projects/Adesa/Adesa/en.lproj/ADViewController_iPhone.xib
+s376230225.159114
+e376230225.402077
+r1
+xCompileXIB
+x/Users/Administrator/Projects/Adesa/Adesa/en.lproj/ADViewController_iPhone.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compiling /Users/Administrator/Projects/Adesa/Adesa/en.lproj/ADViewController_iPhone.xib92ce2851d16cb641^30f26651d16cb641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/Administrator/Projects/Adesa/Adesa/en.lproj/ADViewController_iPhone.xib0000000000000000^969"CompileXIB Adesa/en.lproj/ADViewController_iPhone.xib    cd /Users/Administrator/Projects/Adesa    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH "/Applications/Xcode 2.app/Contents/Developer/usr/bin/.."    "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/en.lproj/ADViewController_iPhone.nib /Users/Administrator/Projects/Adesa/Adesa/en.lproj/ADViewController_iPhone.xib --sdk "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk"36"29AA312A-2DC3-4ACE-8E16-A748F202696A-
+
+CCopyStringsFile /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/en.lproj/InfoPlist.strings Adesa/en.lproj/InfoPlist.strings
+s376230225.154974
+e376230225.157888
+r1
+xCopyStringsFile
+x/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/en.lproj/InfoPlist.strings
+xAdesa/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy Adesa/en.lproj/InfoPlist.stringsefc52751d16cb641^be6b2851d16cb641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/Administrator/Projects/Adesa/Adesa/en.lproj/InfoPlist.strings0000000000000000^619"CopyStringsFile DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/en.lproj/InfoPlist.strings Adesa/en.lproj/InfoPlist.strings    cd /Users/Administrator/Projects/Adesa    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/en.lproj -- Adesa/en.lproj/InfoPlist.strings36"10BAB0C1-27A5-49A1-8986-560F0AFD735C-
+
+CCpResource Adesa/Default-568h@2x.png DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default-568h@2x.png
+s376230225.155428
+e376230225.170569
+r1
+xCpResource
+xAdesa/Default-568h@2x.png
+xDerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default-568h@2x.pngabe82751d16cb641^22ab2b51d16cb641^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default-568h@2x.png000000000080d041^645"CpResource "Adesa/Default-568h@2x.png" "DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default-568h@2x.png"    cd /Users/Administrator/Projects/Adesa    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Administrator/Projects/Adesa/Adesa/Default-568h@2x.png" /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app36"E4F1F009-BE74-4AA7-A1B6-BEBFF8DD7678-
+
+CCpResource Adesa/Default.png DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default.png
+s376230225.154994
+e376230225.169050
+r1
+xCpResource
+xAdesa/Default.png
+xDerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default.png86c62751d16cb641^cf4d2b51d16cb641^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default.png000000000080d041^615"CpResource Adesa/Default.png DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default.png    cd /Users/Administrator/Projects/Adesa    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Administrator/Projects/Adesa/Adesa/Default.png /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app36"0F74ED4D-51F4-4FEF-89BD-2AA15BB3844C-
+
+CCpResource Adesa/Default@2x.png DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default@2x.png
+s376230225.155026
+e376230225.169033
+r1
+xCpResource
+xAdesa/Default@2x.png
+xDerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default@2x.png65c62751d16cb641^e4482b51d16cb641^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default@2x.png000000000080d041^630"CpResource "Adesa/Default@2x.png" "DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Default@2x.png"    cd /Users/Administrator/Projects/Adesa    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Administrator/Projects/Adesa/Adesa/Default@2x.png" /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app36"F2D8CAA8-1BF4-4382-B599-E2D0518F7339-
+
+CGenerateDSYMFile /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app.dSYM /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Adesa
+s376230291.717103
+e376230291.761175
+r1
+xGenerateDSYMFile
+x/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app.dSYM
+x/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Adesa
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Generating /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app.dSYM3ca1b793d16cb641^c2dcc293d16cb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app.dSYM/0000000000000000^720"GenerateDSYMFile DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app.dSYM DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Adesa    cd /Users/Administrator/Projects/Adesa    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil" /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Adesa -o /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app.dSYM36"F1F853EB-111A-4B9D-B0BB-650FCEC41442-
+
+CLd /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Adesa normal i386
+s376230291.482494
+e376230291.709548
+r1
+xLd
+x/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Adesa
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Link /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Adesa029b7b93d16cb641^40a6b593d16cb641^---0#0#0#--1270"Ld DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Adesa normal i386    cd /Users/Administrator/Projects/Adesa    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -arch i386 -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk" -L/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator -F/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator -filelist /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Objects-normal/i386/Adesa.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Adesa36"A1CEABA4-8AF4-40B6-A120-CFBB77626AE8-
+
+CProcessInfoPlistFile /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Info.plist Adesa/Adesa-Info.plist
+s376230223.686955
+e376230223.691556
+r1
+xProcessInfoPlistFile
+x/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Info.plist
+xAdesa/Adesa-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Process Adesa/Adesa-Info.plistda1fb04fd16cb641^350ab14fd16cb641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/Administrator/Projects/Adesa/Adesa/Adesa-Info.plist0000000000000000^712"ProcessInfoPlistFile DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Info.plist Adesa/Adesa-Info.plist    cd /Users/Administrator/Projects/Adesa    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Adesa/Adesa-Info.plist -genpkginfo /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app/Info.plist36"798FB203-DD8C-4662-909F-283258BE3BD8-
+
+CProcessPCH /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/PrecompiledHeaders/Adesa-Prefix-cdrbnjvgotcrpncrklvfgdfrvanh/Adesa-Prefix.pch.pth Adesa/Adesa-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/PrecompiledHeaders/Adesa-Prefix-gwfrweipdysvskhaxmcweapgvzlo/Adesa-Prefix.pch.pth Adesa/Adesa-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376230223.699307
+e376230224.318821
+r1
+xProcessPCH
+x/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/PrecompiledHeaders/Adesa-Prefix-gwfrweipdysvskhaxmcweapgvzlo/Adesa-Prefix.pch.pth
+xAdesa/Adesa-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile Adesa/Adesa-Prefix.pch0d34b34fd16cb641^779d5150d16cb641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/Administrator/Projects/Adesa/Adesa/Adesa-Prefix.pch0000000000000000^3681"ProcessPCH DerivedData/Adesa/Build/Intermediates/PrecompiledHeaders/Adesa-Prefix-gwfrweipdysvskhaxmcweapgvzlo/Adesa-Prefix.pch.pth Adesa/Adesa-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Administrator/Projects/Adesa    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk" -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-generated-files.hmap -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-own-target-headers.hmap -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-all-target-headers.hmap -iquote /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/Adesa-project-headers.hmap -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/include "-I/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" "-I/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/DerivedSources/i386 -I/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/Adesa.build/Debug-iphonesimulator/Adesa.build/DerivedSources -F/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/PrecompiledHeaders/Adesa-Prefix-gwfrweipdysvskhaxmcweapgvzlo/Adesa-Prefix.pch.dia -c /Users/Administrator/Projects/Adesa/Adesa/Adesa-Prefix.pch -o /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/PrecompiledHeaders/Adesa-Prefix-gwfrweipdysvskhaxmcweapgvzlo/Adesa-Prefix.pch.pth -MMD -MT dependencies -MF /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Intermediates/PrecompiledHeaders/Adesa-Prefix-gwfrweipdysvskhaxmcweapgvzlo/Adesa-Prefix.pch.d36"AF61405A-1BA8-4C84-89E9-8842BC9235F4-
+
+CProcessPCH /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Index/PrecompiledHeaders/Adesa-Prefix-dxbciadzgdixdfcpxrfurikjyaky_ast/Adesa-Prefix.pch.pth Adesa/Adesa-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Index/PrecompiledHeaders/Adesa-Prefix-ewdinqppedicmjfxjpscaonyhrvq_ast/Adesa-Prefix.pch.pth Adesa/Adesa-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app
+s376230291.781103
+e376230291.812812
+r1
+xTouch
+x/Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Touch /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.appb002c893d16cb641^6517d093d16cb641^---0#0#0#--436"Touch DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app    cd /Users/Administrator/Projects/Adesa    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Administrator/Projects/Adesa/DerivedData/Adesa/Build/Products/Debug-iphonesimulator/Adesa.app36"29408A36-F156-43AE-84A4-1C00267E59A9-
+
